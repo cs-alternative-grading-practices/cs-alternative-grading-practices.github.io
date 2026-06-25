@@ -23,7 +23,7 @@ email: bedmison@vt.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A community of practice promoting the adoption of alternative grading practices in CS classrooms. Alternative grading practices have been shown to better support student learning and can help increase student learning gains and retention. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cs-equitable-grading-practices.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cs-alternative-grading-practices.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
