@@ -1,4 +1,4 @@
-# Computer Science Equitable Grading Community of Practice
+# Computer Science Alternative Grading Community of Practice
 
 # Our First Meeting!!
 
@@ -21,7 +21,7 @@ This event is the first event from a recently funded NSF grant (nos.2235644, 223
 |4:15pm-4:30pm | **Individual work - finalize individual plans** |
 |4:30pm-5:00pm | **Next steps and virtual meeting scheduling**. Cohort members will share their plans with organizers through online survey.Schedule of virtual cohort meetings in summer discussed |
 
-## Organizers
+## Group
 Stephen Edwards (main contact)<br>
 Virginia Tech<br>
 edwards@cs.vt.edu<br>
@@ -36,4 +36,8 @@ perez.quinones@charlotte.edu<br>
 
 Bob Edmison<br>
 Virginia Tech<br>
-bedmison@vt.edu <br>
+bedmison@vt.edu<br>
+
+Audrey Rorrer<br>
+University of North Carolina Charlotte<br>
+audrey.rorrer@charlotte.edu<br>
