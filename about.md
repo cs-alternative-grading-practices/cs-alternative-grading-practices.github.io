@@ -14,23 +14,23 @@ _This material is based upon work supported by the National Science Foundation u
 
 ## Members of the group (in alphabetical order)
 
-Adrienne Decker<br>
+**Adrienne Decker**<br>
 University at Buffalo<br>
 adrienne@buffalo.edu<br>
 
-Bob Edmison<br>
+**Bob Edmison**<br>
 Virginia Tech<br>
 bedmison@vt.edu <br>
 
-Stephen Edwards<br>
+**Stephen Edwards**<br>
 Virginia Tech<br>
 edwards@cs.vt.edu<br>
 
-Manuel Pérez-Quiñones<br>
+**Manuel Pérez-Quiñones**<br>
 University of North Carolina Charlotte<br>
 perez.quinones@charlotte.edu<br>
 
-Audrey Rorrer<br>
+**Audrey Rorrer**<br>
 University of North Carolina Charlotte<br>
 arorrer@charlotte.edu<br>
 
