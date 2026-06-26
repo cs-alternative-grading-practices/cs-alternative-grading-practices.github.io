@@ -10,8 +10,6 @@ This is the page for a project that promotes a community of practice model for a
 
 The the project supports research as well conducts as a series of meetings of the community of practice members to allow time for face-to-face interaction, planning, and sharing of ideas. 
 
-_This material is based upon work supported by the National Science Foundation under Grant Nos. 2235644, 2235337, and 2235643. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation._
-
 ## Members of the group (in alphabetical order)
 
 **Adrienne Decker**<br>
