@@ -6,11 +6,11 @@ permalink: /about/
 
 ## Alternative Grading Group
 
-This is the page for the NSF funded grant (nos. 2235644, 2235337, 2235643) that promotes a community of practice model for adoption of alternative grading practices in CS classrooms. 
+This is the page for a project that promotes a community of practice model for adoption of alternative grading practices in CS classrooms.  Alternative grading practices have been shown to better support student learning and can help increase student learning gains and retention. 
 
-Alternative grading practices have been shown to better support student learning and can help increase student learning gains and retention. 
+The the project supports research as well conducts as a series of meetings of the community of practice members to allow time for face-to-face interaction, planning, and sharing of ideas. 
 
-The grant supports research as well as a series of meetings of the community of practice members to allow time for face-to-face interaction, planning, and sharing of ideas. 
+_This material is based upon work supported by the National Science Foundation under Grant Nos. 2235644, 2235337, and 2235643. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation._
 
 ## Members of the group (in alphabetical order)
 
