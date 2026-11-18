@@ -5,11 +5,8 @@
 layout: home
 ---
 
-Our group is focused on developing a community of practice made up of faculty interested in engaging with alternative grading practices in computer science classrooms.
+Our group is focused on developing a community of practice made up of faculty interested in engaging with alternative grading practices in computer science classrooms. Alternative grading practices have been shown to better support student learning and can help increase student learning gains and retention. 
 
-Alternative grading practices have been shown to better support student learning and can help increase student learning gains and retention. 
-
-[Our meeting at the 2024 SIGCSE TS]({% post_url 2023-11-03-SIGCSE-24-Announce %}) was the first in a series of face-to-face meetings of this community of practice. For this first meeting, the focus was on faculty who have already adopted and have been using alternative grading practices in their classrooms.
-
+Our next event will take place in **[SIGCSE Technical Symposium 2027, Sacramento, CA]({% post_url 2026-11-17-SIGCSE-27-Announce %})** as an all-day pre-symposium event on Wednesday February 17th 9:00am - 5:00pm. Come join us.
 
 <small>_Last updated: {{ "now" | date: "%Y-%m-%d" }}_</small>
